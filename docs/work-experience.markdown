@@ -4,4 +4,4 @@ title: Work Experience
 permalink: /work-experience/
 ---
 
-This is the
+![image]({{ site.url }}/assets/juniorsundar.jpg)
