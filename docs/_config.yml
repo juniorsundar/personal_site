@@ -27,12 +27,12 @@ description: >- # this means to ignore newlines until "baseurl:"
 domain: juniorsundar.github.io
 url: https://juniorsundar.github.io # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: /personal_site/ # the subpath of your site, e.g. /blog
-twitter_username: jekyllrb
+twitter_username: JrSundar
 github_username:  juniorsundar
 
 # Build settings
-# theme: minima
-theme: jekyll-theme-chirpy
+theme: minima
+# theme: jekyll-theme-chirpy
 plugins:
   - jekyll-feed
 
